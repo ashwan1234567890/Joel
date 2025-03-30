@@ -94,9 +94,9 @@
 <body>
     <header>
         <div class="header-content">
-            <!-- Add your profile picture here -->
+            <!-- IMG_2655.jpeg -->
             <img src="passport photo.jpg" alt="Your Profile Picture" class="profile-picture">
-            <h1>Pranesh S</h1>
+            <h1> Joel A </h1>
             <p>Am Mechanical Engineer</p>
         </div>
     </header>
@@ -176,7 +176,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2025 Pranesh S</p>
+        <p>&copy; 2025 Joel A</p>
     </footer>
 
     <script>
