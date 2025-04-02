@@ -97,7 +97,7 @@
             <!-- IMG_2655.jpeg -->
             <img src="passport photo.jpg" alt="Your Profile Picture" class="profile-picture">
             <h1> Joel A </h1>
-            <p>Computer science assignment</p>
+            <p>AM COMPUTER SCIENCE STUDENT</p>
         </div>
     </header>
 
